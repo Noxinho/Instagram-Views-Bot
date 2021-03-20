@@ -43,7 +43,7 @@ def loop2():
 
 print("Author: https://github.com/NoNameoN-A")
 
-vidUrl = "https://www.instagram.com/p/CMT5HZmBIqP/" #Change it
+vidUrl = "https://www.instagram.com/p/CMkQbRrnklK/?utm_source=ig_web_copy_link" #Change it
 
 bot = int(input("What do you want to do?\n1 - Auto Views Video\n2 - Auto Views Story\n"))
 
